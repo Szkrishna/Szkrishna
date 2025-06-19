@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHqoTZy3h6R3nmm/giphy.gif" alt="Dashboard Development Animation" width="350" />
+  <img src="./assets/github-home.gif" alt="Development Animation" width="200" />
 </p>
 
 <h1 align="center">
