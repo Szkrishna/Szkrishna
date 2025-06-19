@@ -80,7 +80,7 @@
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,docker,graphql,redux,firebase" />
+  <img src="https://skillicons.dev/icons?i=nextjs,docker,graphql,firebase" />
 </p>
 
 ---
@@ -112,11 +112,10 @@
 
 ---
 
-> 🧠 _"The best way to predict the future is to create it."_  
-> 🚀 _Let’s build something extraordinary together!_
+> 🎯 _"Great design is invisible—great code makes it possible."_  
+> 💡 _Crafting clean, responsive, and impactful web experiences, one pixel at a time._  
+> 🚀 _Let’s innovate, collaborate, and build the future together!_
 
 ---
-
-Would you like me to save this as your actual `README.md` file content or add more sections (like certifications, blogs, or pinned repos)?
 
 
