@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔥 3+ years experience in **Frontend Development**
 - 👨‍💼 Currently working as a **Project Engineer 2 at Oges Solutions**
