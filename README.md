@@ -96,14 +96,17 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishna-singh-5a2244196/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="mailto:krisnas9792@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://github.com/Szkrishna">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/krishna-singh-5a2244196/" target="_blank">
+    <img src="https://img.shields.io/badge/-Krishna%20Singh-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="http://krishna-singh-portfolio.tech">
-    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox-browser" />
+  <a href="https://github.com/Szkrishna" target="_blank">
+    <img src="https://img.shields.io/badge/-Szkrishna-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="http://krishna-singh-portfolio.tech" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-ff7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 
