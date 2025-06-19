@@ -1,15 +1,23 @@
+/* Flex utilities */
 .flex {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  padding: 20px 0;
 }
 
-.width-55{
+/* Width utilities */
+.width-55 {
   width: 55%;
 }
 
-.width-45{
+.width-45 {
   width: 45%;
 }
 
+/* Bounce-in entry animation */
 @keyframes bounceIn {
   0% {
     transform: scale(0.3);
@@ -27,11 +35,21 @@
   }
 }
 
+/* Tech icon base styling */
 .tech-icon {
-  margin: 6px;
-  transition: transform 0.3s ease;
+  width: 50px;
+  height: 50px;
+  padding: 6px;
+  background: #fff;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  animation: bounceIn 0.8s ease forwards;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+/* On hover: scale and rotate slightly */
 .tech-icon:hover {
-  transform: scale(1.25) rotate(5deg);
+  transform: scale(1.2) rotate(3deg);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
 }
