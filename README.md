@@ -47,7 +47,7 @@
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+  <img class="tech-icon" src="https://raw.githubusercontent.com/tailwindlabs/brand/master/icon-mark/svg/icon-mark-blue.svg" width="40" height="40" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
@@ -83,14 +83,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,docker,graphql,firebase" />
-</p>
-
----
-
-## 🛠 Fun Animation
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Krishna+Singh;Frontend+Ninja+%F0%9F%91%BD+with+React+%26+Angular;Let's+Build+Something+Awesome!" />
 </p>
 
 ---
