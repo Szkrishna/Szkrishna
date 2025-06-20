@@ -1,31 +1,20 @@
-<p align="center">
-  <img src="./assets/github-home.gif" alt="Development Animation" width="200" />
-</p>
-
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="28" alt="wave">, I'm Krishna Singh!
 </h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;I+love+crafting+modern+UIs+and+clean+code;Let's+Build+Something+Amazing!" />
+</h2>
+
+<p align="center">
+  <img src="./assets/github-home.gif" alt="Development Animation" width="200" />
+</p>
 
 <p align="center">
   🚀 Frontend Developer | 💻 Angular & React Specialist | 🎨 UI/UX Enthusiast  
 </p>
 
-<p align="center">
-  <a href="mailto:krisnas9792@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/krishna-singh-5a2244196">🔗 LinkedIn</a> •
-  <a href="https://github.com/Szkrishna">🐙 GitHub</a> •
-  <a href="http://krishna-singh-portfolio.tech">🌐 Portfolio</a>
-</p>
-
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;I+love+crafting+modern+UIs+and+clean+code;Let's+Build+Something+Amazing!" />
-</p>
-
----
-
-## 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -38,7 +27,7 @@
 
 ---
 
-## 🛠 Tech Stack
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -54,32 +43,36 @@
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 </p>
 
----
-
-## 🌟 Notable Projects
-
-| 🚀 Project | 📋 Description | 🛠 Tech Stack |
-|-----------|----------------|--------------|
-| **HVMS** | Heavy Vehicle Management System for oilfield fleet tracking and approvals | Angular, Node.js, MySQL, Tailwind, Google Maps |
-| **CVC Dashboard** | Oil & Gas data visualization dashboard for multiple departments | Angular, ApexCharts, ECharts, Plotly |
-| **Well Services** | Real-time React dashboard with FastAPI backend | React, Chart.js, FastAPI, MySQL |
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-Expert-red?style=flat-square&logo=angular" />
+  <img src="https://img.shields.io/badge/React-Developer-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Creative-teal?style=flat-square&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/FastAPI-Fast-green?style=flat-square&logo=fastapi" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="center">Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Szkrishna&theme=react&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szkrishna&layout=compact&theme=react&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Szkrishna&theme=react&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" width="95%" />
+</p>
+
+<p align="center">
+  <img src="(https://raw.githubusercontent.com/Szkrishna/Szkrishna/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+<h3 align="center">Actively Learning:</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,docker,graphql,firebase" />
@@ -87,7 +80,7 @@
 
 ---
 
-## 🤝 Let's Connect
+<h3 align="center">Lets Connect:</h3>
 
 <p align="center">
   <a href="mailto:krisnas9792@gmail.com" target="_blank">
