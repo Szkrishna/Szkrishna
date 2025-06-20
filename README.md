@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠 Tech Stack
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -56,26 +56,30 @@
 
 ---
 
-## 🌟 Notable Projects
-
-| 🚀 Project | 📋 Description | 🛠 Tech Stack |
-|-----------|----------------|--------------|
-| **HVMS** | Heavy Vehicle Management System for oilfield fleet tracking and approvals | Angular, Node.js, MySQL, Tailwind, Google Maps |
-| **CVC Dashboard** | Oil & Gas data visualization dashboard for multiple departments | Angular, ApexCharts, ECharts, Plotly |
-| **Well Services** | Real-time React dashboard with FastAPI backend | React, Chart.js, FastAPI, MySQL |
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Szkrishna&theme=react&show_icons=true&hide_border=true" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Szkrishna&theme=react&hide_border=true" width="49%" />
+  <img src="https://img.shields.io/github/followers/Szkrishna?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Szkrishna?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Szkrishna/Szkrishna?style=for-the-badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Szkrishna.Szkrishna" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" />
+  <img src="https://img.shields.io/badge/Angular-Expert-red?style=flat-square&logo=angular" />
+  <img src="https://img.shields.io/badge/React-Developer-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Creative-teal?style=flat-square&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/FastAPI-Fast-green?style=flat-square&logo=fastapi" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Szkrishna&theme=react&hide_border=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szkrishna&layout=compact&theme=react&hide_border=true" width="40%" />
+</p>
+
 
 ---
 
