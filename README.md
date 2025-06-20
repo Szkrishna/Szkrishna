@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/home-banner2.gif" alt="Development Animation" width="300" />
+  <img src="./assets/banner.gif" alt="Development Animation" width="300" />
 </p>
 
 <p align="center">
