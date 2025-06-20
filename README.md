@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Szkrishna&theme=react&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=react&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
