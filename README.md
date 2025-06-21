@@ -1,20 +1,20 @@
-<h1 align="center">
-  <img src="./assets/hello.gif" alt="greetings" width="200" />
-</h1>
+<div align="center">
+<!--   <img src="./assets/greeting.gif" alt="greetings" width="250" /> -->
+  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/greeting.gif?raw=true" width="300" />
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2FF&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Krishna+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN%2FMEAN+%7C+FastAPI;Crafting+Modern+UIs+%26+Scalable+Backends;Let%E2%80%99s+Build+Smart+%26+Secure+Web+Apps+Together!;Always+Learning+%E2%9C%A8+Always+Improving" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="./assets/banner.gif" alt="Development Animation" width="300" />
+  <img src="./assets/dev-working.gif" alt="Development Animation" width="600" />
 </p>
 
 <p align="center">
   🚀 Frontend Developer | 💻 Angular & React Specialist | 🎨 UI/UX Enthusiast  
 </p>
-
----
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -25,6 +25,10 @@
 - 🎨 Passionate about beautiful UI, clean code & cool micro-interactions
 - ✨ Always learning & exploring new tools
 
+---
+
+<h3 align="center">🧰 Projects</h3>
+
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | **Heavy Vehicle Management System (HVMS)** | Angular, Bootstrap, Tailwind CSS, Google Maps, Node.js, MySQL, ApexCharts, Chart.js, jQuery | 🚛 Streamlined fleet management for an oilfield service provider. Includes multi-level approvals, inspection workflows, and automated trip tracking for enhanced operational efficiency. |
@@ -33,7 +37,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools</h3>
 
 <p align="center">
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -58,7 +62,7 @@
 
 ---
 
-<h3 align="center">Stats:</h3>
+<h3 align="center">📊 Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szkrishna&layout=compact&theme=react&hide_border=true" width="30%" />
@@ -74,7 +78,15 @@
 
 ---
 
-<h3 align="center">Actively Learning:</h3>
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Szkrishna&theme=algolia&no-frame=true&row=1&column=6" width="80%" />
+</p>
+
+---
+
+<h3 align="center">📚 Actively Learning</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,docker,graphql,firebase" />
@@ -82,7 +94,7 @@
 
 ---
 
-<h3 align="center">Let's Connect:</h3>
+<h3 align="center">🤝 Let's Connect</h3>
 
 <div align="center" style="border: 2px solid #4CAF50; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
 
