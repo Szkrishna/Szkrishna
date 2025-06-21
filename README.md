@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/greeting.gif?raw=true" alt="greetings" width="300" />
+  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/greeting.gif?raw=true" alt="greetings" width="200" />
 </div>
 
 <p align="center">
@@ -72,10 +72,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szkrishna&layout=compact&theme=react&hide_border=true" width="30%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=react&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=react&hide_border=true" width="50%" />
 </p>
 
 <p align="center">
@@ -101,11 +98,8 @@
   <a href="https://www.linkedin.com/in/krishna-singh-5a2244196/" target="_blank">
     <img src="https://img.shields.io/badge/-Krishna%20Singh-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Szkrishna" target="_blank">
-    <img src="https://img.shields.io/badge/-Szkrishna-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="http://krishna-singh-portfolio.tech" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-ff7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfolio-<HEXCOLOR>?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
   </a>
 </p>
 
