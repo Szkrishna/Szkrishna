@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/greeting.gif?raw=true" alt="greetings" width="200" />
+  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/greeting.gif?raw=true" alt="greetings" width="400" />
 </div>
 
 <p align="center">
@@ -38,24 +38,24 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Angular-Expert-red?style=flat-square&logo=angular" />
+  <img src="https://img.shields.io/badge/React-Developer-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Creative-teal?style=flat-square&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/FastAPI-Fast-green?style=flat-square&logo=fastapi" />
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-Expert-red?style=flat-square&logo=angular" />
-  <img src="https://img.shields.io/badge/React-Developer-blue?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Creative-teal?style=flat-square&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/FastAPI-Fast-green?style=flat-square&logo=fastapi" />
 </p>
 
 ---
@@ -72,11 +72,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szkrishna&layout=compact&theme=react&hide_border=true" width="30%" />
-  <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=react&hide_border=true" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=react&hide_border=true" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" width="80%" />
 </p>
 
 ---
