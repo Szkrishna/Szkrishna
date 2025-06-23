@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/greeting.gif?raw=true" alt="greetings" width="400" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2FF&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Krishna+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN%2FMEAN+%7C+FastAPI;Crafting+Modern+UIs+%26+Scalable+Backends;Let%E2%80%99s+Build+Smart+%26+Secure+Web+Apps+Together!;Always+Learning+%E2%9C%A8+Always+Improving" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2FF&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Krishna+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN%2FMEAN+%7C+FastAPI;Crafting+Modern+UIs+%26+Scalable+Backends;Let%E2%80%99s+Build+Smart+%26+Secure+Web+Apps+Together!;Always+Learning+%E2%9C%A8+Always+Improving" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/dev-working.gif?raw=true" alt="Development Animation" width="600" />
-</p>
+<div align="center">
+  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/dev-working.gif?raw=true" alt="Development Animation" width="550" />
+</div>
 
 <p align="center">
   🚀 Frontend Developer | 💻 Angular & React Specialist | 🎨 UI/UX Enthusiast  
