@@ -71,15 +71,15 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=react&hide_border=true" width="42%" />
+  <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=vue&hide_border=false" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Szkrishna/Szkrishna/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" style="width: 70%;" />
+  <img src="https://raw.githubusercontent.com/Szkrishna/Szkrishna/main/profile-3d-contrib/profile-green-animate.svg" style="width: 70%;" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Szkrishna/Szkrishna/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Szkrishna/Szkrishna/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
