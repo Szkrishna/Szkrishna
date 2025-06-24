@@ -71,7 +71,7 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=react&hide_border=false" width="42%" />
+  <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=react&hide_border=false" width="50%" />
 </p>
 
 <p align="center">
