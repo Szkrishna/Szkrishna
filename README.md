@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/greeting.gif?raw=true" alt="greetings" width="300" />
+  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/greeting.gif?raw=true" alt="Greetings" width="200" />
 </div>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2FF&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Krishna+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN%2FMEAN+%7C+FastAPI;Crafting+Modern+UIs+%26+Scalable+Backends;Let%E2%80%99s+Build+Smart+%26+Secure+Web+Apps+Together!;Always+Learning+%E2%9C%A8+Always+Improving" alt="Typing SVG" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/dev-working.gif?raw=true" alt="Development Animation" width="600" />
-</p>
+<div align="center">
+  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/dev-working.gif?raw=true" alt="Development Animation" width="550" />
+</div>
 
 <p align="center">
   🚀 Frontend Developer | 💻 Angular & React Specialist | 🎨 UI/UX Enthusiast  
@@ -38,24 +38,24 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Angular-Expert-red?style=flat-square&logo=angular" />
+  <img src="https://img.shields.io/badge/React-Developer-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Creative-teal?style=flat-square&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/FastAPI-Fast-green?style=flat-square&logo=fastapi" />
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-Expert-red?style=flat-square&logo=angular" />
-  <img src="https://img.shields.io/badge/React-Developer-blue?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Creative-teal?style=flat-square&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/FastAPI-Fast-green?style=flat-square&logo=fastapi" />
 </p>
 
 ---
@@ -72,14 +72,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szkrishna&layout=compact&theme=react&hide_border=true" width="30%" />
+  <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=react&hide_border=true" width="42%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Szkrishna&theme=react&hide_border=true" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" width="65%" />
 </p>
 
 ---
@@ -101,11 +103,8 @@
   <a href="https://www.linkedin.com/in/krishna-singh-5a2244196/" target="_blank">
     <img src="https://img.shields.io/badge/-Krishna%20Singh-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Szkrishna" target="_blank">
-    <img src="https://img.shields.io/badge/-Szkrishna-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="http://krishna-singh-portfolio.tech" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-ff7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfolio-<HEXCOLOR>?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
   </a>
 </p>
 
