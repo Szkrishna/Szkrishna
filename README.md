@@ -75,15 +75,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Szkrishna/Szkrishna/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Szkrishna/Szkrishna/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" style="width: 70%;" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Szkrishna/Szkrishna/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
