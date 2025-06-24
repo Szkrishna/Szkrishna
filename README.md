@@ -71,7 +71,6 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szkrishna&layout=compact&theme=react&hide_border=true" width="30%" />
   <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=react&hide_border=true" width="42%" />
 </p>
 
@@ -79,6 +78,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" width="60%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Szkrishna/Szkrishna/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Szkrishna/Szkrishna/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" style="width: 70%;" />
+</p>
 
 ---
 
