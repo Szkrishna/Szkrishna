@@ -76,6 +76,11 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Szkrishna&theme=react&hide_border=true" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" width="60%" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Szkrishna&theme=github_dark" width="65%" />
 </p>
 
