@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/FastAPI-High%20Performance-teal?style=flat-square&logo=fastapi" />
   <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/MySQL-Database-orange?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-brightgreen?style=flat-square&logo=mongodb" />
   <img src="https://img.shields.io/badge/TailwindCSS-Design-06B6D4?style=flat-square&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Data%20Viz-Charts%2FDashboards-blueviolet?style=flat-square&logo=plotly" />
 </p>
