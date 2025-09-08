@@ -33,7 +33,7 @@
 |---------|------------|------------|
 | **Project Cost Management Application (PCMA)** | Angular, .NET Core, MySQL | 📊 Enterprise app for real-time cost monitoring across manpower, transport & equipment. Implemented role-based workflows as **Project Lead**. |
 | **Accommodation Booking Management System (ABMS)** | Angular, FastAPI, MySQL, Google Maps API | 🏨 Hotel & accommodation platform with room availability, onboarding via APIs, check-in/out tracking & notification services. |
-| **Heavy Vehicle Management System (HVMS)** | Angular, Node.js, MySQL, Google Maps, ApexCharts | 🚛 Fleet management solution with **automated assignments**, **camera-based inspections**, **email notifications**, and a **GenAI-powered chatbot**. |
+| **Heavy Vehicle Management System (HVMS)** | Angular, Google Maps, ApexCharts | 🚛 Fleet management solution with **automated assignments**, **camera-based inspections**, **email notifications**, and a **GenAI-powered chatbot**. |
 | **Central Vigilance Commission (CVC) Dashboard** | Angular, FastAPI, MySQL, ApexCharts, ECharts, Plotly.js | 📈 Oil & gas lifecycle dashboard with real-time analytics and interactive charts. |
 | **Well Services Dashboard** | React, Node.js, MySQL, Chart.js | 📅 Planning & opportunity tracking dashboards with **execution diagrams** and interactive reports. |
 
