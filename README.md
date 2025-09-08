@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello"><br>
 </div>
 
 <div align="center">
@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Szkrishna/Szkrishna/blob/main/assets/dev-working.gif?raw=true" alt="Development Animation" width="550" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="550">
+  <br>
 </div>
 
 <p align="center">
