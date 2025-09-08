@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello"><br>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello"><br><br>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Krishna+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+Angular+%7C+.NET+Core;React+%7C+Node.js+%7C+FastAPI;Building+Responsive+UIs+%26+Real-Time+Dashboards;Data+Visualization+%7C+GenAI+Solutions;Always+Learning+%E2%9C%A8+Always+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00A2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Krishna+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+Angular+%7C+.NET+Core;React+%7C+Node.js+%7C+FastAPI;Building+Responsive+UIs+%26+Real-Time+Dashboards;Data+Visualization+%7C+GenAI+Solutions;Always+Learning+%E2%9C%A8+Always+Improving" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="550">
