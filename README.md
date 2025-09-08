@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2FF&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Krishna+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN%2FMEAN+%7C+FastAPI;Crafting+Modern+UIs+%26+Scalable+Backends;Let%E2%80%99s+Build+Smart+%26+Secure+Web+Apps+Together!;Always+Learning+%E2%9C%A8+Always+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Krishna+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+Angular+%7C+.NET+Core;React+%7C+Node.js+%7C+FastAPI;Building+Responsive+UIs+%26+Real-Time+Dashboards;Data+Visualization+%7C+GenAI+Solutions;Always+Learning+%E2%9C%A8+Always+Improving" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,64 +11,51 @@
 </div>
 
 <p align="center">
-  🚀 Frontend Developer | 💻 Angular & React Specialist | 🎨 UI/UX Enthusiast  
+  🚀 Full Stack Web Developer | 💻 Angular, .NET Core, React, FastAPI | 📊 Dashboards & Data Visualization  
 </p>
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔥 3+ years experience in **Frontend Development**
-- 👨‍💼 Currently working as a **Project Engineer 2 at Oges Solutions**
-- 💡 Expert in **Angular**, **React**, **Tailwind CSS**, and **Charting Libraries**
-- 📊 Proficient with **FastAPI**, **Node.js**, **MySQL**, **MongoDB**
-- 🎨 Passionate about beautiful UI, clean code & cool micro-interactions
-- ✨ Always learning & exploring new tools
+- 🔥 3+ years of experience in **Frontend & Full Stack Development**  
+- 👨‍💼 Currently a **Project Engineer III (Project Lead) at Oges Software**  
+- 💡 Skilled in **Angular (Advanced RxJS, Lazy Loading, Route Guards, Authentication)**, **React**, **.NET Core**, **Node.js**, **FastAPI**  
+- 📊 Expert in **Chart.js, ApexCharts, ECharts, Plotly.js** for **real-time dashboards**  
+- 🌍 Built **Google Maps-integrated apps**, **camera-based inspections**, **role-based workflows**  
+- 🤖 Developed **GenAI-powered chatbot integrations** for enterprise apps  
+- ☁️ Deployments on **AWS (EC2, custom domains, SSL)**  
+- ✨ Passionate about **scalable architecture, clean UI, and modern web experiences**  
 
 ---
 
-### 🧰 Projects
+### 🧰 Featured Projects
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **Heavy Vehicle Management System (HVMS)** | Angular, Bootstrap, Tailwind CSS, Google Maps, Node.js, MySQL, ApexCharts, Chart.js, jQuery | 🚛 Streamlined fleet management for an oilfield service provider. Includes multi-level approvals, inspection workflows, and automated trip tracking for enhanced operational efficiency. |
-| **Central Vigilance Commission (CVC)** | Angular, Node.js, MySQL, ApexCharts, Chart.js, ECharts, Plotly.js | 🛢️ A holistic dashboard visualizing the entire oil & gas lifecycle — from exploration to delivery — with real-time charts and interactive modules for each business unit. |
-| **Well Services** | React, Python (FastAPI), MySQL, React Chart.js | 📅 **Planning**: Schedule and manage operations efficiently.<br>📈 **Opportunities**: Track potential leads and service areas.<br>📑 **Reports**: Generate interactive charts and execution diagrams for performance analysis. |
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **Project Cost Management Application (PCMA)** | Angular, .NET Core, MySQL | 📊 Enterprise app for real-time cost monitoring across manpower, transport & equipment. Implemented role-based workflows as **Project Lead**. |
+| **Accommodation Booking Management System (ABMS)** | Angular, FastAPI, MySQL, Google Maps API | 🏨 Hotel & accommodation platform with room availability, onboarding via APIs, check-in/out tracking & notification services. |
+| **Heavy Vehicle Management System (HVMS)** | Angular, Node.js, MySQL, Google Maps, ApexCharts | 🚛 Fleet management solution with **automated assignments**, **camera-based inspections**, **email notifications**, and a **GenAI-powered chatbot**. |
+| **Central Vigilance Commission (CVC) Dashboard** | Angular, FastAPI, MySQL, ApexCharts, ECharts, Plotly.js | 📈 Oil & gas lifecycle dashboard with real-time analytics and interactive charts. |
+| **Well Services Dashboard** | React, Node.js, MySQL, Chart.js | 📅 Planning & opportunity tracking dashboards with **execution diagrams** and interactive reports. |
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-Expert-red?style=flat-square&logo=angular" />
+  <img src="https://img.shields.io/badge/Angular-Advanced-red?style=flat-square&logo=angular" />
   <img src="https://img.shields.io/badge/React-Developer-blue?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Creative-teal?style=flat-square&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/FastAPI-Fast-green?style=flat-square&logo=fastapi" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/.NET%20Core-Backend-purple?style=flat-square&logo=dotnet" />
+  <img src="https://img.shields.io/badge/FastAPI-High%20Performance-teal?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-brightgreen?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Design-06B6D4?style=flat-square&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Data%20Viz-Charts%2FDashboards-blueviolet?style=flat-square&logo=plotly" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Szkrishna&theme=algolia&no-frame=true&row=1&column=6" width="80%" />
-</p>
-
----
-
-### 📊 Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Szkrishna&theme=react&hide_border=false" width="50%" />
@@ -84,15 +71,15 @@
 
 ---
 
-### 📚 Actively Learning
+### 📚 Currently Exploring
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,docker,graphql,firebase" />
+  <img src="https://skillicons.dev/icons?i=nextjs,docker,graphql,firebase,aws" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let’s Connect
 
 <p align="center">
   <a href="mailto:krisnas9792@gmail.com" target="_blank">
@@ -102,14 +89,12 @@
     <img src="https://img.shields.io/badge/-Krishna%20Singh-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="http://krishna-singh-portfolio.tech" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-<HEXCOLOR>?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   🎯 <em>"Great design is invisible—great code makes it possible."</em><br>
-  💡 <em>Crafting clean, responsive, and impactful web experiences, one pixel at a time.</em><br>
+  💡 <em>Engineering scalable apps, real-time dashboards & modern UIs.</em><br>
   🚀 <em>Let’s innovate, collaborate, and build the future together!</em>
 </p>
-
----
